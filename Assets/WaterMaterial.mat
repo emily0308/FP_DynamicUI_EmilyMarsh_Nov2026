@@ -46,12 +46,12 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Depth: 8.11
-    - _Displacement: 0.5
-    - _NormalStrength: 0.1
+    - _Depth: 8.53
+    - _Displacement: 0.65
+    - _NormalStrength: 0.05
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Smoothness: 0.8
+    - _Smoothness: 1.25
     - _Strength: 1.5
     m_Colors:
     - _Deep_Water: {r: 0.17795478, g: 0.36770943, b: 0.4056604, a: 1}
